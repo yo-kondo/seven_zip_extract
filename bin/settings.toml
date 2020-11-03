@@ -1,0 +1,8 @@
+# 7-zipのインストールパス（7z.exeのパス）
+seven_zip_path = "C:\\Program Files\\7-Zip\\7z.exe"
+
+# 解凍パスワード（複数可能）
+extract_passwords = [
+    "password1",
+    "password2",
+]
